@@ -1,4 +1,5 @@
 # HR-Analytics-Dashboard-using-Tableau
+![HR dashboard](https://github.com/Kumar28494/HR-Analytics-Dashboard-using-Tableau/assets/145334281/66ec4b15-5d97-4097-8c23-7e9657fea37a)
 
 ## 📊 HR ANALYTICS Dashboard Report - Unlocking Insights with Tableau! 🚀
 
