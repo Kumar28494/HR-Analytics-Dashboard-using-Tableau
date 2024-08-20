@@ -4,21 +4,21 @@
 ## 📊 HR ANALYTICS Dashboard Report - Unlocking Insights with Tableau! 🚀
 
 Exciting news! 🌟 Our HR Analytics Dashboard, crafted with precision using Tableau, is set to revolutionize how we understand and optimize our workforce dynamics. Let's delve into the journey and key insights:
-## Data Journey:
-### 🔄 Data Import: 
+### Data Journey:
+## 🔄 Data Import: 
 Leveraged Kaggle's robust dummy data to fuel our analytics journey.
-### 🧹 Data Cleaning & Processing: 
+## 🧹 Data Cleaning & Processing: 
 Meticulously handled missing values, outliers, and inconsistencies, ensuring a robust dataset.
-### 🔍 Data Validation:
+## 🔍 Data Validation:
 Rigorous checks to guarantee the accuracy and reliability of our analytics.
-### 🚫 Duplicate Removal: 
+## 🚫 Duplicate Removal: 
 Eliminated redundancies to enhance data integrity.
-## Dashboard Components:
-### 1.	📈 Department-wise Attrition:
+### Dashboard Components:
+## 1.	📈 Department-wise Attrition:
 •	Unveils attrition trends across various departments.
-### 2.	📊 No. of Employees by Age Group:
+## 2.	📊 No. of Employees by Age Group:
 •	Visualizes the age distribution within our workforce.
-### 3.	🌐 Job Satisfaction Rating:
+## 3.	🌐 Job Satisfaction Rating:
 •	Gauges overall job satisfaction for actionable insights.
 ### 4.	📉 Education Field-wise Attrition:
 •	A deep dive into attrition rates across different education fields.
